@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alamar-pres/static/css/main.07a88989.css",
-    "main.js": "/alamar-pres/static/js/main.1525aa8d.js",
+    "main.js": "/alamar-pres/static/js/main.872a13af.js",
     "static/media/uptrillion_cloud.png": "/alamar-pres/static/media/uptrillion_cloud.bbb4b7d84d588d77130b.png",
     "static/media/uptrillion_inventory1.png": "/alamar-pres/static/media/uptrillion_inventory1.a4c18815c0fa182bbdf4.png",
     "static/media/regression_inventory.png": "/alamar-pres/static/media/regression_inventory.4ed16e7abf0a5d19cd66.png",
@@ -43,10 +43,10 @@
     "static/media/alamar_logo.webp": "/alamar-pres/static/media/alamar_logo.ac436cd706f53e2bca94.webp",
     "index.html": "/alamar-pres/index.html",
     "main.07a88989.css.map": "/alamar-pres/static/css/main.07a88989.css.map",
-    "main.1525aa8d.js.map": "/alamar-pres/static/js/main.1525aa8d.js.map"
+    "main.872a13af.js.map": "/alamar-pres/static/js/main.872a13af.js.map"
   },
   "entrypoints": [
     "static/css/main.07a88989.css",
-    "static/js/main.1525aa8d.js"
+    "static/js/main.872a13af.js"
   ]
 }
