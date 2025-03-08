@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alamar-pres/static/css/main.07a88989.css",
-    "main.js": "/alamar-pres/static/js/main.872a13af.js",
+    "main.css": "/alamar-pres/static/css/main.5111700f.css",
+    "main.js": "/alamar-pres/static/js/main.553c294b.js",
     "static/media/uptrillion_cloud.png": "/alamar-pres/static/media/uptrillion_cloud.bbb4b7d84d588d77130b.png",
     "static/media/uptrillion_inventory1.png": "/alamar-pres/static/media/uptrillion_inventory1.a4c18815c0fa182bbdf4.png",
     "static/media/regression_inventory.png": "/alamar-pres/static/media/regression_inventory.4ed16e7abf0a5d19cd66.png",
@@ -28,8 +28,8 @@
     "static/media/Test Plan0.png": "/alamar-pres/static/media/Test Plan0.ef9d3ce8bcae1411089d.png",
     "static/media/testprotocolDiagram.png": "/alamar-pres/static/media/testprotocolDiagram.49ea4c74a75bb2862b38.png",
     "static/media/testmethodDiagram.png": "/alamar-pres/static/media/testmethodDiagram.4f4ce76d09da19f6bbe9.png",
+    "static/media/presentationDiagram.png": "/alamar-pres/static/media/presentationDiagram.eedf32762c421d1d3801.png",
     "static/media/Document_report1.PNG": "/alamar-pres/static/media/Document_report1.b5c9b83d8289f919b43c.PNG",
-    "static/media/presentationDiagram.png": "/alamar-pres/static/media/presentationDiagram.b012f5fd5a01e5f37b64.png",
     "static/media/uptrillion_payment.png": "/alamar-pres/static/media/uptrillion_payment.f232c398ed6f51508829.png",
     "static/media/uptrillion_sales3.png": "/alamar-pres/static/media/uptrillion_sales3.e1f46a3f7256838c6091.png",
     "static/media/uptrillion_inventory.webp": "/alamar-pres/static/media/uptrillion_inventory.1a81092453dd798e5fe0.webp",
@@ -42,11 +42,11 @@
     "static/media/uptrillion_d135.jpg": "/alamar-pres/static/media/uptrillion_d135.b11d4ba5262acafa3bfa.jpg",
     "static/media/alamar_logo.webp": "/alamar-pres/static/media/alamar_logo.ac436cd706f53e2bca94.webp",
     "index.html": "/alamar-pres/index.html",
-    "main.07a88989.css.map": "/alamar-pres/static/css/main.07a88989.css.map",
-    "main.872a13af.js.map": "/alamar-pres/static/js/main.872a13af.js.map"
+    "main.5111700f.css.map": "/alamar-pres/static/css/main.5111700f.css.map",
+    "main.553c294b.js.map": "/alamar-pres/static/js/main.553c294b.js.map"
   },
   "entrypoints": [
-    "static/css/main.07a88989.css",
-    "static/js/main.872a13af.js"
+    "static/css/main.5111700f.css",
+    "static/js/main.553c294b.js"
   ]
 }
