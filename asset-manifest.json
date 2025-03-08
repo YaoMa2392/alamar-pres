@@ -1,8 +1,13 @@
 {
   "files": {
-    "main.css": "/alamar-pres/static/css/main.5111700f.css",
-    "main.js": "/alamar-pres/static/js/main.553c294b.js",
+    "main.css": "/alamar-pres/static/css/main.e6d40592.css",
+    "main.js": "/alamar-pres/static/js/main.2568a30a.js",
+    "static/media/alamar_recovery.png": "/alamar-pres/static/media/alamar_recovery.ea275345fbda31fc3679.png",
+    "static/media/alamar_function.png": "/alamar-pres/static/media/alamar_function.0bf5d1807a28ef90c7fb.png",
     "static/media/uptrillion_cloud.png": "/alamar-pres/static/media/uptrillion_cloud.bbb4b7d84d588d77130b.png",
+    "static/media/alamar_manual.png": "/alamar-pres/static/media/alamar_manual.837d98dd70300f178c2d.png",
+    "static/media/alamar_performance.png": "/alamar-pres/static/media/alamar_performance.2e286886e2b027a47848.png",
+    "static/media/alamar_data1.png": "/alamar-pres/static/media/alamar_data1.d77bcabad8b5c1baf765.png",
     "static/media/uptrillion_inventory1.png": "/alamar-pres/static/media/uptrillion_inventory1.a4c18815c0fa182bbdf4.png",
     "static/media/regression_inventory.png": "/alamar-pres/static/media/regression_inventory.4ed16e7abf0a5d19cd66.png",
     "static/media/uptrillion_inventory2.png": "/alamar-pres/static/media/uptrillion_inventory2.90da2b091c589d6709f1.png",
@@ -42,11 +47,11 @@
     "static/media/uptrillion_d135.jpg": "/alamar-pres/static/media/uptrillion_d135.b11d4ba5262acafa3bfa.jpg",
     "static/media/alamar_logo.webp": "/alamar-pres/static/media/alamar_logo.ac436cd706f53e2bca94.webp",
     "index.html": "/alamar-pres/index.html",
-    "main.5111700f.css.map": "/alamar-pres/static/css/main.5111700f.css.map",
-    "main.553c294b.js.map": "/alamar-pres/static/js/main.553c294b.js.map"
+    "main.e6d40592.css.map": "/alamar-pres/static/css/main.e6d40592.css.map",
+    "main.2568a30a.js.map": "/alamar-pres/static/js/main.2568a30a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5111700f.css",
-    "static/js/main.553c294b.js"
+    "static/css/main.e6d40592.css",
+    "static/js/main.2568a30a.js"
   ]
 }
