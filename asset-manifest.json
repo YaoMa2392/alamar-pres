@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alamar-pres/static/css/main.e6d40592.css",
-    "main.js": "/alamar-pres/static/js/main.2568a30a.js",
+    "main.css": "/alamar-pres/static/css/main.0de37353.css",
+    "main.js": "/alamar-pres/static/js/main.19c85bca.js",
     "static/media/alamar_recovery.png": "/alamar-pres/static/media/alamar_recovery.ea275345fbda31fc3679.png",
     "static/media/alamar_function.png": "/alamar-pres/static/media/alamar_function.0bf5d1807a28ef90c7fb.png",
     "static/media/uptrillion_cloud.png": "/alamar-pres/static/media/uptrillion_cloud.bbb4b7d84d588d77130b.png",
@@ -39,6 +39,7 @@
     "static/media/uptrillion_sales3.png": "/alamar-pres/static/media/uptrillion_sales3.e1f46a3f7256838c6091.png",
     "static/media/uptrillion_inventory.webp": "/alamar-pres/static/media/uptrillion_inventory.1a81092453dd798e5fe0.webp",
     "static/media/test_diagram.PNG": "/alamar-pres/static/media/test_diagram.6b16ff0bb15ea436f2e3.PNG",
+    "static/media/testTypesDiagram.PNG": "/alamar-pres/static/media/testTypesDiagram.53e2ca3a3178062d49a3.PNG",
     "static/media/JMeterReport.png": "/alamar-pres/static/media/JMeterReport.aea4d277af3efc66f3e1.png",
     "static/media/cicdDiagram.png": "/alamar-pres/static/media/cicdDiagram.617ede12121b055425d3.png",
     "static/media/SDETDiagram.PNG": "/alamar-pres/static/media/SDETDiagram.a2f4b7586688bc201b98.PNG",
@@ -47,11 +48,11 @@
     "static/media/uptrillion_d135.jpg": "/alamar-pres/static/media/uptrillion_d135.b11d4ba5262acafa3bfa.jpg",
     "static/media/alamar_logo.webp": "/alamar-pres/static/media/alamar_logo.ac436cd706f53e2bca94.webp",
     "index.html": "/alamar-pres/index.html",
-    "main.e6d40592.css.map": "/alamar-pres/static/css/main.e6d40592.css.map",
-    "main.2568a30a.js.map": "/alamar-pres/static/js/main.2568a30a.js.map"
+    "main.0de37353.css.map": "/alamar-pres/static/css/main.0de37353.css.map",
+    "main.19c85bca.js.map": "/alamar-pres/static/js/main.19c85bca.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6d40592.css",
-    "static/js/main.2568a30a.js"
+    "static/css/main.0de37353.css",
+    "static/js/main.19c85bca.js"
   ]
 }
