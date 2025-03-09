@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alamar-pres/static/css/main.0de37353.css",
-    "main.js": "/alamar-pres/static/js/main.b520aac6.js",
+    "main.css": "/alamar-pres/static/css/main.e5347945.css",
+    "main.js": "/alamar-pres/static/js/main.6ff10815.js",
     "static/media/alamar_recovery.png": "/alamar-pres/static/media/alamar_recovery.ea275345fbda31fc3679.png",
     "static/media/alamar_function.png": "/alamar-pres/static/media/alamar_function.0bf5d1807a28ef90c7fb.png",
     "static/media/uptrillion_cloud.png": "/alamar-pres/static/media/uptrillion_cloud.bbb4b7d84d588d77130b.png",
@@ -48,11 +48,11 @@
     "static/media/uptrillion_d135.jpg": "/alamar-pres/static/media/uptrillion_d135.b11d4ba5262acafa3bfa.jpg",
     "static/media/alamar_logo.webp": "/alamar-pres/static/media/alamar_logo.ac436cd706f53e2bca94.webp",
     "index.html": "/alamar-pres/index.html",
-    "main.0de37353.css.map": "/alamar-pres/static/css/main.0de37353.css.map",
-    "main.b520aac6.js.map": "/alamar-pres/static/js/main.b520aac6.js.map"
+    "main.e5347945.css.map": "/alamar-pres/static/css/main.e5347945.css.map",
+    "main.6ff10815.js.map": "/alamar-pres/static/js/main.6ff10815.js.map"
   },
   "entrypoints": [
-    "static/css/main.0de37353.css",
-    "static/js/main.b520aac6.js"
+    "static/css/main.e5347945.css",
+    "static/js/main.6ff10815.js"
   ]
 }
